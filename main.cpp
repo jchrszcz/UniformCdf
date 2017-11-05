@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "cdf.h"
+#include "UniformCdf.h"
 
 int main () {
 
